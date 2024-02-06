@@ -32,7 +32,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-My first episode consists of the introduction to the Computer Science department at Allegheny and the types of majors offered here and how they differ from each other. 
+My first episode consists of the introduction to the Computer Science department at Allegheny and the types of majors offered here and how they differ from each other.s
 
 ## 🔬 Show Details
 
