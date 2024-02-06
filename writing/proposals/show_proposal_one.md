@@ -64,8 +64,12 @@ the stated objectives for the podcast episode.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
+Write at least three to five paragraphs that describe the content of the
 episode, ensuring that the description is both engaging and informative.
+
+When I initially started planning out the topic I wanted to talk about in the Major Breakthroughs Podcast, I wanted to really dedicate my time into framing my ideas within the CIS department and how each of the 4 majors are different from each other. I wanted to talk about how different each major is and how a student can find out the 'right' major for them. Some students might come into college wanting to major in computer science and not know about the different majors that are related to computer science which might align with their career goals more than computer science does. This is why I also want to include what it is like to adapt to major changes and bring in students who are in the same boat and let them talk about how they coped with it.
+
+Since there is alot to unpack in initial idea, I decided that I could have up to 5-6 episodes because of how broad my idea is going to be. This is why for the first episode, I would like to introduce the viewers to the computer science department and majors and have a current student on my podcast talk about their reason for choosing computer science and what their major/minor combinations are. Additionally, I would like to introduce the struggles they face 
 
 ## 📢 Call to Action
 
@@ -73,17 +77,11 @@ After listening to this audio, I want students to know if the majors offered in 
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
+- **Reference One**: https://amplify.matchmaker.fm/what-makes-a-good-podcast/
+- **Reference Two**: https://writeforme.io/blog/strategies-for-selecting-podcast-topics-ensuring-your-audience-remains-engaged-and-intrigued-with-your-content
+- **Reference Three**: https://www.linkforcounselors.com/6-questions-can-ask-help-students-pick-major/
 
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
+If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
 you used, how you used them, and what content they helped you to brainstorm,
 write, or revise. While the use of AI writing assistants is permitted as a part
