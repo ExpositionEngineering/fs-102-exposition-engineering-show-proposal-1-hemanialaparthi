@@ -69,7 +69,7 @@ episode, ensuring that the description is both engaging and informative.
 
 ## 📢 Call to Action
 
-After listening to this audio, I want students to know if the majors offered in CIS are the right ones for them and to be able to be confident in the reason why they chose this major if they chose to do so. Students should be able to know if the major they will be choosing in CIS actually aligns with their future career goals and aspirations.
+After listening to this audio, I want students to know if the majors offered in CIS are the right ones for them and to be able to be confident in the reason why they chose this major if they chose to do so. Students should also be able to know if the major they will be choosing in CIS actually aligns with their future career goals and aspirations.
 
 ## 🦜 References
 
