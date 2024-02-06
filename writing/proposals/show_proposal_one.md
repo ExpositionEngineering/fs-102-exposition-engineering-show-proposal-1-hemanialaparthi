@@ -5,16 +5,16 @@
 <!---toc start-->
 
 * [Show Proposal One](#show-proposal-one)
-  * [✨ Table of Contents](#-table-of-contents)
-  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
-  * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
-  * [🏁 One Sentence Pitch](#-one-sentence-pitch)
-  * [🔬 Show Details](#-show-details)
-  * [📝 Show Objectives](#-show-objectives)
-  * [📚 Sample Questions](#-sample-questions)
-  * [🎉 Show Description](#-show-description)
-  * [📢 Call to Action](#-call-to-action)
-  * [🦜 References](#-references)
+* [✨ Table of Contents](#-table-of-contents)
+* [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+* [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
+* [🏁 One Sentence Pitch](#-one-sentence-pitch)
+* [🔬 Show Details](#-show-details)
+* [📝 Show Objectives](#-show-objectives)
+* [📚 Sample Questions](#-sample-questions)
+* [🎉 Show Description](#-show-description)
+* [📢 Call to Action](#-call-to-action)
+* [🦜 References](#-references)
 
 <!---toc end-->
 
@@ -72,13 +72,15 @@ It might be hard to unpack the introduction in one whole episode so I am conside
 
 ## 📢 Call to Action
 
-After listening to this audio, I want students to know if the majors offered in CIS are the right ones for them and to be able to be confident in the reason why they chose this major if they chose to do so. Students should also be able to know if the major they will be choosing in CIS actually aligns with their future career goals and aspirations.
+- **Call to Action**: After listening to this audio, I want students to know if the majors offered in CIS are the right ones for them and to be able to be confident in the reason why they chose this major if they chose to do so. Students should also be able to know if the major they will be choosing in CIS actually aligns with their future career goals and aspirations.
 
 ## 🦜 References
 
-- **Reference One**: https://amplify.matchmaker.fm/what-makes-a-good-podcast/
-- **Reference Two**: https://writeforme.io/blog/strategies-for-selecting-podcast-topics-ensuring-your-audience-remains-engaged-and-intrigued-with-your-content
-- **Reference Three**: https://www.linkforcounselors.com/6-questions-can-ask-help-students-pick-major/
+- **Reference One**: <https://amplify.matchmaker.fm/what-makes-a-good-podcast/>
+
+- **Reference Two**: <https://writeforme.io/blog/strategies-for-selecting-podcast-topics-ensuring-your-audience-remains-engaged-and-intrigued-with-your-content>
+
+- **Reference Three**: <https://www.linkforcounselors.com/6-questions-can-ask-help-students-pick-major/>
 
 If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
