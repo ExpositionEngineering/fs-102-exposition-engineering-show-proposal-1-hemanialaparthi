@@ -58,7 +58,7 @@ the stated objectives for the podcast episode.
 - **Question Two**: What made you choose (***the specific major in CIS they are in***) as your major?
 - **Question Three**: What is your major/minor combination? What are common combinations you see? Was it hard to decide on a minor?
 
-- **Justification for Question One**: Being able to let students know that it is completely alright for students to come in not knowing what they want to major in and also being able to change their mind later on
+- **Justification for Question One**: Being able to let students know that it is completely alright for students to come in not knowing what they want to major in and also being able to change their mind later on.
 - **Justification for Question Two**: Help students understand what drives individuals to think academically and professionally.
 - **Justification for Question Three**: Understand combinations that students can possibly do with computer science and explore other possible combinations students do.
 
