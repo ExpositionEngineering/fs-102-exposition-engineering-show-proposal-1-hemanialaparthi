@@ -32,7 +32,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-My first episode consists of the introduction to the Computer Science department at Allegheny and the types of majors offered here and how they differ from each other.
+Interested in the CIS department and the majors offered? Don't know which major in CIS to choose? Join me and a computer science major as we dive deeper into the differences in the majors offered and how you can pick the right major for you.
 
 ## 🔬 Show Details
 
@@ -44,7 +44,7 @@ My first episode consists of the introduction to the Computer Science department
 
 - **Objective One**: Helping students figure out the differences between the majors in the CIS department
 - **Objective Two**: Help find the right major for them and the future aspects of that certain major
-- **Objective Three**: Finding good major/minor combinations with major science
+- **Objective Three**: Finding good major/minor combinations with major computer science and learning more about what people usually do with computer science/ any CIS majors.
 
 ## 📚 Sample Questions
 
