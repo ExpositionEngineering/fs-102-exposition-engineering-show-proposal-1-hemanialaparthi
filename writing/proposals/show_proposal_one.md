@@ -43,16 +43,10 @@ My first episode consists of the introduction to the Computer Science department
 ## 📝 Show Objectives
 
 - **Objective One**: Helping students figure out the differences between the majors in the CIS department
-- **Objective Two**: Help find the right major for †hem and the future aspects of that certain major
+- **Objective Two**: Help find the right major for them and the future aspects of that certain major
 - **Objective Three**: Finding good major/minor combinations with major science
 
 ## 📚 Sample Questions
-
-Provide a list of of at least three sample questions that the host will
-ask the guest.
-
-Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
 
 - **Question One**: Coming into college, what major did you initially decide on?
 - **Question Two**: What made you choose (***the specific major in CIS they are in***) as your major?
@@ -60,7 +54,7 @@ the stated objectives for the podcast episode.
 
 - **Justification for Question One**: Being able to let students know that it is completely alright for students to come in not knowing what they want to major in and also being able to change their mind later on.
 - **Justification for Question Two**: Help students understand what drives individuals to think academically and professionally.
-- **Justification for Question Three**: Understand combinations that students can possibly do with computer science and explore other possible combinations students do.
+- **Justification for Question Three**: Understand combinations that students can possibly do with computer science and explore other possible combinations students usually do.
 
 ## 🎉 Show Description
 
