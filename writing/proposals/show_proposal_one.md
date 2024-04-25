@@ -22,13 +22,7 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-You must retype the sentence here in order to digitally sign your pledge.
-
 I adhered to the Allegheny College Honor Code while completing this project.
-
-**IMPORTANT:** If you do not type the required sentence then the course
-instructor will not know that you adhered to the Allegheny College Honor Code
-while completing the project.
 
 ## 🏁 One Sentence Pitch
 
@@ -75,10 +69,3 @@ It might be hard to unpack the introduction in one whole episode so I am conside
 * **Reference Two**: <https://writeforme.io/blog/strategies-for-selecting-podcast-topics-ensuring-your-audience-remains-engaged-and-intrigued-with-your-content>
 
 * **Reference Three**: <https://www.linkforcounselors.com/6-questions-can-ask-help-students-pick-major/>
-
-If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
